@@ -1,0 +1,20 @@
+*
+{
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+}
+button
+{
+    font-size: 30px;
+    background-color: green;
+    font-family: monospace;
+    border-radius: 10px;
+    padding: 20px;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: darkgreen;
+    padding: 19px;
+}
